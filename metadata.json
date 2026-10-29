@@ -2,5 +2,7 @@
   "name": "AI 활용 레벨 테스트",
   "description": "내 AI 활용법은 능숙한 비서 부리기일까, 고급 검색창 수준일까? 8개 질문으로 알아보는 직장인·대학생 AI 활용 유형 진단",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
