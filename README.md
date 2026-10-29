@@ -3,12 +3,24 @@
 > **"내 AI 활용법은 '능숙한 비서 부리기'일까, 아니면 그냥 '고급 검색창' 수준일까?"**  
 > 대학생과 직장인을 위한 실전 공감 100% 인터랙티브 AI 활용 유형 테스트 웹앱입니다.
 
+### 🌐 [👉 배포 사이트 바로가기 (Live Demo): https://aititude.vercel.app/](https://aititude.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-aititude.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aititude.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-cosohotmas%2Fai__titude-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosohotmas/ai_titude.git)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.0+-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4.0-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Motion](https://img.shields.io/badge/Motion-12.0+-FF0055?logo=framer&logoColor=white)](https://motion.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 🖥️ 서비스 미리보기 (Preview)
+
+[![AI-titude Live Preview](./preview.jpg)](https://aititude.vercel.app/)  
+> 🔗 **[https://aititude.vercel.app/](https://aititude.vercel.app/)**  
+> *(위 이미지를 클릭하면 실제 배포된 테스트 페이지로 바로 연결됩니다.)*
 
 ---
 
@@ -19,7 +31,8 @@
 
 **AI-titude**는 기획서 작성, 거래처 이메일, 팩트체크, 최신 툴 탐색 등 직장인과 대학생이 자주 겪는 현실적인 8가지 시나리오를 바탕으로 개인의 AI 활용 태도와 역량을 입체적으로 분석하고, 개성 넘치는 페르소나로 진단해주는 반응형 웹 애플리케이션입니다.
 
-- **GitHub Repository:** [https://github.com/cosohotmas/ai_titude.git](https://github.com/cosohotmas/ai_titude.git)
+- **배포 URL:** [https://aititude.vercel.app/](https://aititude.vercel.app/)
+- **GitHub 저장소:** [https://github.com/cosohotmas/ai_titude.git](https://github.com/cosohotmas/ai_titude.git)
 
 ---
 
@@ -78,6 +91,7 @@
 
 | 구분 | 기술 / 라이브러리 |
 |---|---|
+| **배포 환경 (Hosting)** | [Vercel](https://vercel.com/) ([https://aititude.vercel.app/](https://aititude.vercel.app/)) |
 | **Framework** | [React 19](https://react.dev/) + [Vite 8](https://vitejs.dev/) |
 | **Language** | [TypeScript](https://www.typescriptlang.org/) |
 | **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) |
@@ -91,6 +105,7 @@
 
 ```bash
 ai_titude/
+├── preview.jpg                 # README 및 배포 프리뷰 이미지
 ├── index.html                  # HTML 엔트리 포인트 (SEO 메타태그 설정)
 ├── metadata.json               # 앱 메타데이터
 ├── package.json                # 프로젝트 의존성 및 스크립트
